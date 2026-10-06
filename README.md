@@ -20,4 +20,4 @@ Go · Node.js · TypeScript · PHP · AWS Lambda/SAM · Terraform · Docker · P
 
 ### Reach me
 
-[Portfolio](https://lucantas.github.io/portfolio/) · [LinkedIn](https://br.linkedin.com/in/lucantas) · [Résumé](https://lucantas.github.io/portfolio/resume.pdf) · lucas.lucantas38@gmail.com
+[Portfolio](https://lucantas.github.io/portfolio/) · [LinkedIn](https://br.linkedin.com/in/lucantas) · [Résumé](https://lucantas.github.io/portfolio/resume.pdf) · lucantas.dev@gmail.com
