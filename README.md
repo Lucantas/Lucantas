@@ -8,7 +8,7 @@ At [Personare](https://www.personare.com.br) I moved ~15 payment and cart APIs o
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Diário SG**](https://github.com/Lucantas/diario-sg) | Splits São Gonçalo's official gazettes into ~162,000 searchable acts, cross-checks companies against public data, sends alerts and exposes an MCP server with 12 tools | Go · Postgres · Pub/Sub · Terraform · GCP |
+| [**Diário SG**](https://diariosg.com.br) | Splits São Gonçalo's official gazettes into ~162,000 searchable acts, cross-checks companies against public data, sends alerts and exposes an MCP server with 12 tools. [Source](https://github.com/Lucantas/diario-sg) | Go · Postgres · MCP · GitHub Actions · Render |
 | [**Longa**](https://app.longa.run) | Running app that rewrites next week's plan around what you actually ran | Expo/React Native · Go · Postgres · Fly.io |
 | [**Morada**](https://github.com/Lucantas/morada-app) | Condominium management with Pix payments, 900+ tests behind an 80% coverage gate | React · TypeScript · Hono · Postgres |
 
