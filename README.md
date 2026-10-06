@@ -4,8 +4,6 @@ Senior backend engineer from Brazil. I write Go and run it serverless on AWS, an
 
 At [Personare](https://www.personare.com.br) I moved ~15 payment and cart APIs off a PHP monolith to Go on AWS Lambda. Latency went from ~3s to milliseconds and infrastructure costs dropped about 30%, on routes used by millions of people.
 
-**Open to senior backend roles (full-time or contract) and freelance projects.** Remote, UTC−3, English or Portuguese.
-
 ### What I've built
 
 | Project | What it is | Stack |
