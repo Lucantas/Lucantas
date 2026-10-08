@@ -18,6 +18,13 @@ More on each one, with screenshots, in my [portfolio](https://lucantas.github.io
 
 Go · Node.js · TypeScript · PHP · AWS Lambda/SAM · Terraform · Docker · PostgreSQL · MySQL · React
 
+### GitHub stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucantas&show_icons=true&theme=transparent&hide_border=true" alt="Lucas's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucantas&layout=compact&hide=html,css&langs_count=8&theme=transparent&hide_border=true" alt="Most used languages" />
+</p>
+
 ### Reach me
 
 [Portfolio](https://lucantas.github.io/portfolio/) · [LinkedIn](https://br.linkedin.com/in/lucantas) · [Résumé](https://lucantas.github.io/portfolio/resume.pdf) · lucantas.dev@gmail.com
